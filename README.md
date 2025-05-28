@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpna601
+- 👋 Hi, I’m @alpna602
 - 👀 I’m interested in ...c++ , python 
 - 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...
